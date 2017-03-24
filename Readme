@@ -1,4 +1,12 @@
+/*************************************************************************
+ * Author: Younes Bouab
+ * Email:  YBINSF@YAHOO.COM
+ * Date:   01-01-2017
+ *************************************************************************/
+ 
 LogScanner is a java program that scans one or multiple log files, generates a report 
 according to a custom filter in the output folder, and sends an email with the report attached.
 
-LogScanner can be configured by editing the file LogScanner.properties
+LogScanner can be configured by editing the file LogScanner.properties.
+
+To run LogScanner, run com.logscanner.LogScanner Class.
