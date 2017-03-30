@@ -5,7 +5,7 @@
  *************************************************************************/
  
 LogScanner is a multithreaded java program that scans one or multiple log files for specific words, generates a report 
-("output/LogScanner_Report.html") according to a custom filter, and sends an email with the report attached.  To configure 
+("output/LogScanner_Report.html") according to a custom filter, and sends an email with the report attached. To configure 
 LogScanner, please edit the "LogScanner.properties" file.
 
 The LogScanner.zip file is a compressed eclipse project.  To run LogScanner, first edit the 
