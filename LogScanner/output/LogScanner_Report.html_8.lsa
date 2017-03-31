@@ -1,0 +1,69 @@
+<html>
+<header>
+<title>Endur Support: LogScanner v0.1 (Beta)</title>
+</header><body style="font:11pt calibri,geneva,sans-serif;margin-top:0px">Property File: "./LogScanner.properties"<br>
+Filter Start Date: 03-21-2017 00:00:00<br>
+Filter End Date: 03-31-2017 23:59:59<br>
+Filter And Words: Credit, Connex<br>
+Filter Or Words: Unable to connect, timed out, error<br>
+Filter Not Words: <br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 11:57:11 - LogScanner started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+</b>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 11:57:11 - Property File processing started for "./LogScanner.properties</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<font color='#0000ff'>03-31-2017 11:57:11 - Property File processing ended! Data: 5.748 KB - Time: 0.043 Sec - Data/Time: 133.676 KB/Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 11:57:11 - Translation Thread #1 "/Users/Younes/java/LogScanner/TestLogs/^.*.log$" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<font color='#0000ff'>03-31-2017 11:57:11 - Translation Thread #1 ended! Files Count: 2 files! Time: 0.002 Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 11:57:11 - Translation Thread #2 "/Users/Younes/java/LogScanner/TestLogs/^.*.txt$" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<font color='#0000ff'>03-31-2017 11:57:11 - Translation Thread #2 ended! Files Count: 1 files! Time: 0.002 Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 11:57:11 - Scan Thread #5 "/Users/Younes/java/LogScanner/TestLogs/LogScanner.txt" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+3: Test 23-3-2017 06:51:05 AM GMT Connex Engine 1: ERROR - &#60;executing script 'OP_SERVICE'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+4: Test 31 03 2017 06:51:07 AM GMT Connex Engine 2: ERROR - &#60;executing script 'OP_SERVICE'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+<font color='#0000ff'>03-31-2017 11:57:11 - Scan Thread #5 ended! Passed Filter: 2 - Data: 704.000 B - Time: 0.016 Sec - Data/Time: 42.969 KB/Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 11:57:11 - Scan Thread #3 "/Users/Younes/java/LogScanner/TestLogs/LogScanner 2.log" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+5: 23 Mar 2017 06:51:37 Connex Engine 2: ERROR - &#60;executing script 'OP_SERVICE'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+6: 23 Mar 2017 06:51:43 Script Engine 1: ERROR - &#60;executing script 'Post Processing Services' function 'Post_Processing_Services'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+7: 30 Mar 2017 06:52:13 Script Engine 1: ERROR - &#60;executing script 'Post Processing Services' function 'Post_Processing_Services'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+8: 31 Mar 2017 06:52:43 Script Engine 1: ERROR - &#60;executing script 'Post Processing Services' function 'Post_Processing_Services'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+<font color='#0000ff'>03-31-2017 11:57:11 - Scan Thread #3 ended! Passed Filter: 4 - Data: 1.442 KB - Time: 0.020 Sec - Data/Time: 72.119 KB/Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 11:57:11 - Scan Thread #4 "/Users/Younes/java/LogScanner/TestLogs/LogScanner.log" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+1: 24 Mar 2017 06:50:34 Connex Engine 2: ERROR - &#60;executing script 'OP_SERVICE'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+2: 24 Mar 2017 06:50:34 Connex Engine 1: ERROR - &#60;executing script 'OP_SERVICE'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+3: 24 Mar 2017 06:51:05 Connex Engine 1: ERROR - &#60;executing script 'OP_SERVICE'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+4: 24 Mar 2017 06:51:07 Connex Engine 2: ERROR - &#60;executing script 'OP_SERVICE'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+5: 24 Mar 2017 06:51:37 Connex Engine 2: ERROR - &#60;executing script 'OP_SERVICE'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+6: 30 Mar 2017 06:51:43 Script Engine 1: ERROR - &#60;executing script 'Post Processing Services' function 'Post_Processing_Services'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+7: 31 Mar 2017 06:52:13 Script Engine 1: ERROR - &#60;executing script 'Post Processing Services' function 'Post_Processing_Services'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+8: 31 Mar 2017 06:52:43 Script Engine 1: ERROR - &#60;executing script 'Post Processing Services' function 'Post_Processing_Services'&#62; &#62;: OL:0-1561 retrieve_current_Credit_risk_usages() failed. Unable to connect to engine.<br>
+<font color='#0000ff'>03-31-2017 11:57:11 - Scan Thread #4 ended! Passed Filter: 8 - Data: 1.442 KB - Time: 0.022 Sec - Data/Time: 65.563 KB/Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 11:57:11 - File Translation/Scanning ended! Files Count: 6 - Data: 9.320 KB - </font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+</b>
+</body>
+</html><br>
+Sending email ended! Time: 1.997 Sec - Status: Success!

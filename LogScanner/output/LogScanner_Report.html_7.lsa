@@ -1,0 +1,115 @@
+<html>
+<header>
+<title>Endur Support: LogScanner v0.1 (Beta)</title>
+</header><body style="font:11pt calibri,geneva,sans-serif;margin-top:0px">Property File: "./LogScanner.properties"<br>
+Filter Start Date: 03-21-2017 1224:00:00<br>
+Filter End Date: 03-31-2017 1124:59:59<br>
+Filter And Words: Credit, Connex<br>
+Filter Or Words: Unable to connect, timed out, error<br>
+Filter Not Words: <br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 1124:56:55 - LogScanner started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+</b>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 1124:56:55 - Property File processing started for "./LogScanner.properties</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Property File processing ended! Data: 5.748 KB - Time: 0.039 Sec - Data/Time: 147.386 KB/Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 1124:56:55 - Translation Thread #2 "/Users/Younes/java/LogScanner/TestLogs/^.*.txt$" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Translation Thread #2 ended! Files Count: 1 files! Time: 0.002 Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 1124:56:55 - Translation Thread #1 "/Users/Younes/java/LogScanner/TestLogs/^.*.log$" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Translation Thread #1 ended! Files Count: 2 files! Time: 0.002 Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 "/Users/Younes/java/LogScanner/TestLogs/LogScanner 2.log" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 stopped at line #0!  Line Date "03 Mar 2017 06:50:34" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 stopped at line #1!  Line Date "13 Mar 2017 06:50:34" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 stopped at line #2!  Line Date "13 Mar 2017 06:51:05" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 stopped at line #3!  Line Date "13 Mar 2017 06:51:07" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 stopped at line #4!  Line Date "23 Mar 2017 06:51:37" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 stopped at line #5!  Line Date "23 Mar 2017 06:51:43" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 stopped at line #6!  Line Date "30 Mar 2017 06:52:13" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 stopped at line #7!  Line Date "31 Mar 2017 06:52:43" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+Date parsed, but none passed Filter!<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #4 ended! Passed Filter: 0 - Data: 1.442 KB - Time: 0.023 Sec - Data/Time: 62.712 KB/Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 "/Users/Younes/java/LogScanner/TestLogs/LogScanner.log" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 stopped at line #0!  Line Date "24 Mar 2017 06:50:34" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 stopped at line #1!  Line Date "24 Mar 2017 06:50:34" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 stopped at line #2!  Line Date "24 Mar 2017 06:51:05" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 stopped at line #3!  Line Date "24 Mar 2017 06:51:07" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 stopped at line #4!  Line Date "24 Mar 2017 06:51:37" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 stopped at line #5!  Line Date "30 Mar 2017 06:51:43" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 stopped at line #6!  Line Date "31 Mar 2017 06:52:13" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 stopped at line #7!  Line Date "31 Mar 2017 06:52:43" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 1.442 KB - </font><br>
+<br>
+<br>
+Date parsed, but none passed Filter!<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #5 ended! Passed Filter: 0 - Data: 1.442 KB - Time: 0.026 Sec - Data/Time: 55.476 KB/Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #3 "/Users/Younes/java/LogScanner/TestLogs/LogScanner.txt" started</font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #3 stopped at line #0!  Line Date "28-02-2017 10:50:34 PM PST" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 704.000 B - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #3 stopped at line #1!  Line Date "01-03-2017 10:50:34 PM PST" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 704.000 B - </font><br>
+<br>
+<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #3 stopped at line #2!  Line Date "22-03-2017 11:51:05 PM PDT" is after Filter End Date "03-31-2017 1124:59:59"! Passed Filter: 0 - Data: 704.000 B - </font><br>
+<br>
+<br>
+Date parsed, but none passed Filter!<br>
+<font color='#0000ff'>03-31-2017 1124:56:55 - Scan Thread #3 ended! Passed Filter: 0 - Data: 704.000 B - Time: 0.027 Sec - Data/Time: 25.463 KB/Sec</font><br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<b><font color='#0000ff'>03-31-2017 1124:56:55 - File Translation/Scanning ended! Files Count: 6 - Data: 9.320 KB - </font></b><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+</b>
+</body>
+</html><br>
+Sending email ended! Time: 2.100 Sec - Status: Success!
